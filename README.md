@@ -4,7 +4,7 @@ This folder provides the starter code for the "ND9991 - C2- Infrastructure as Co
 ![infra-img](/img/Final-Project-Course-2.png)
 
 
-ALB url - http://udagr-albwe-1umiex2jw02zf-1513867348.us-east-1.elb.amazonaws.com/
+Public URL of the Load Balancer - http://udagr-albwe-1umiex2jw02zf-1513867348.us-east-1.elb.amazonaws.com/
 
 
 #### servers.yml
