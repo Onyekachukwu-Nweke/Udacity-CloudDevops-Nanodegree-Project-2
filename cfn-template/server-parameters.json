@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdagramApp"
+	},
+	{
+		"ParameterKey": "WebServerImageId",
+		"ParameterValue": "ami-08fdec01f5df9998f"
+	},
+	{
+		"ParameterKey": "WebServerInstanceType",
+		"ParameterValue": "t3.medium"
+	}
+]
